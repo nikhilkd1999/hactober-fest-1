@@ -30,6 +30,6 @@ int main()
 
     cout << "The maximum element is: " << *max_element(v.begin(), v.end());
 
-    return 0;
+    return 1;
 
 }
